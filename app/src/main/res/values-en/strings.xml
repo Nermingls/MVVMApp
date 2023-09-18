@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">KampGunIki</string>
+    <string name="adi">Name : </string>
+    <string name="soyadi">Surname : </string>
+    <string name="yas">Age : </string>
+
+</resources>

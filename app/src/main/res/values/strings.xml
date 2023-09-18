@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">KampGunIki</string>
+    <string name="adi">Adı : </string>
+    <string name="soyadi">Soyadi : </string>
+    <string name="yas">Yas : </string>
+    <string name="benim_html_metnim" translatable="false">
+<![CDATA[
+
+<p>Bu bir formatlanmış html yazıdır.</p>
+
+<b>Koyu</b> and <i>İtalik</i> yazı</p>
+    <p>Bu da diğer bir paragraftır.</p>
+    ]]>
+</string>
+    <string name="title_activity_stil_activty" />
+    <string name="title_activity_glide_activty" />
+
+
+</resources>

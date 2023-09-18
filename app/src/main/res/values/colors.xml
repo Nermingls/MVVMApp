@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="halfBlack">#65000000</color>
+
+    <color name="mor">#6C1A91</color>
+    <color name="turkuaz">#18DDA5</color>
+    <color name="pempe">#E40E75</color>
+    <color name="mavi">#2196F3</color>
+    <color name="sari">#FEFFAC</color>
+
+    <color name="gri1">#636363</color>
+    <color name="gri2">#393B44</color>
+    <color name="gri3">#9BA4B5</color>
+
+    <color name="sari1">#EFEE6C</color>
+    <color name="sari2">#FFEA20</color>
+    <color name="sari3">#FAC213</color>
+
+    <color name="yaziRengi">#525464</color>
+    <color name="buttonRengi">#06BC88</color>
+
+</resources>
